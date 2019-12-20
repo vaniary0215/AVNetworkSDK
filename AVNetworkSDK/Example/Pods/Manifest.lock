@@ -1,0 +1,27 @@
+PODS:
+  - AVNetworkSDK (0.1.0)
+  - Nimble (7.3.4)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - AVNetworkSDK (from `../`)
+  - Nimble (~> 7.0)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  AVNetworkSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AVNetworkSDK: 6273ea9fccec9375d469ced3e0b859981b2b4581
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: a3747b3501fdffe4933af39f4ad72e84bf3e569d
+
+COCOAPODS: 1.7.1

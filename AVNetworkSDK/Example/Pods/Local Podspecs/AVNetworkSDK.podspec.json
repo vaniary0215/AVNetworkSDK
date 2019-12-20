@@ -1,0 +1,22 @@
+{
+  "name": "AVNetworkSDK",
+  "version": "0.1.0",
+  "summary": "A short description of AVNetworkSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vaniary0215/AVNetworkSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vaniary0215": "applicaster4@zee.esselgroup.com"
+  },
+  "source": {
+    "git": "https://github.com/vaniary0215/AVNetworkSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AVNetworkSDK/Classes/**/*"
+}
